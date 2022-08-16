@@ -1,0 +1,104 @@
+#Main
+{
+background:#FFFFFF;
+width:990px;
+height:1342px;
+margin-left:auto;
+margin-right:auto;
+background:-webkit-linear-gradient(brown,blue);
+background:-o-linear-gradient(brown,blue);
+background:-moz-linear-gradient(brown,blue);
+background:linear-gradient(275deg, #99FFCC,pink,skyblue, #CCFF33, #FF66FF, #660000);
+//box-shadow:10px 10px 20px red;
+}
+#Baner
+{ 
+background-color: #CC0000;
+width:990px;
+height:300px; 
+text-align:center;
+line-height:300px;
+background:-webkit-linear-gradient(brown,blue);
+background:-o-linear-gradient(brown,blue);
+background:-moz-linear-gradient(brown,blue);
+background:linear-gradient(190deg,yellow,red);
+//box-shadow:10px 10px 20px red; 
+}
+#News
+{
+border:3px groove #00FF00; 
+background-color: #33FF00;
+width:985px;
+height:100px;  
+text-align:center;
+line-height:65px;
+background:-webkit-linear-gradient(brown,blue);
+background:-o-linear-gradient(brown,blue);
+background:-moz-linear-gradient(brown,blue);
+background:linear-gradient(135deg,#660000,#FF00FF);
+//box-shadow:10px 10px 20px red;
+}
+h1
+{
+color: #00FF00;
+}
+#L
+{
+color:#CCFF00;
+}
+#Licence
+{ border:2px groove blue;
+background-color: #660000;
+margin-top:0px;
+width:985px;
+height:100px;  
+text-align:center;
+line-height:70px;
+}
+table
+{
+align:center;
+margin-top:320px;
+width:800px;
+height:500px; 
+border:5px groove blue;
+text-align:center;
+margin-left:100px;
+}
+tr
+{
+border:3px groove red;
+}
+td
+{
+border:3px groove blue;
+color: #330000;
+}
+#PN
+{
+border:2px double blue;
+margin:auto;
+margin-top:10px;
+margin-left:auto;
+width:985px;
+height:100px;
+text-align:center;
+line-height:200px;
+background:-webkit-linear-gradient(brown,blue);
+background:-o-linear-gradient(brown,blue);
+background:-moz-linear-gradient(brown,blue);
+background:linear-gradient(75deg,Red,pink,white,skyblue);
+//box-shadow:10px 10px 20px red;
+}
+#butt
+{
+width:200px;
+height:100px;
+color: #FF0000;
+background:-webkit-linear-gradient(brown,blue);
+background:-o-linear-gradient(brown,blue);
+background:-moz-linear-gradient(brown,blue);
+background:linear-gradient(345deg,skublue, #00FF00);
+//box-shadow:60px 100px 60px red;
+border-radius:200px 300px 200px 300px; 
+}
